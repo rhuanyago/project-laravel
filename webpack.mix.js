@@ -52,4 +52,6 @@ mix
 
    .options({
       processCssUrls: false
-   });
+   })
+
+   .version();
